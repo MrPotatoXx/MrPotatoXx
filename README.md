@@ -26,4 +26,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=spotyy234up&cover_image=true&theme=natemoo-re&bar_color=494db6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPotatoXx&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=1e1e1e">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPotatoXx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
