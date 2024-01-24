@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Giovanni+Salinas%2C+and;I'm+a+Cybersecurity+Professional.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&multiline=true&random=false&width=435&height=58&lines=Hi+%F0%9F%91%8B%2C+I'm+Giovanni+Salinas%2C+and;I'm+a+Cybersecurity+Professional.)](https://git.io/typing-svg)
 
 <h3>Connect with me:</h3>
 <p>
