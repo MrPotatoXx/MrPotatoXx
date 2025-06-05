@@ -16,8 +16,4 @@
 [![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)](https://www.w3schools.com/css/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Intermediate-blue)](https://tailwindcss.com/)
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=spotyy234up&cover_image=true&theme=natemoo-re&bar_color=494db6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPotatoXx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
